@@ -1,0 +1,3 @@
+rootProject.name = 'SnapPosition'
+
+include ':app'
